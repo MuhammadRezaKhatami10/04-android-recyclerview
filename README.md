@@ -5,4 +5,3 @@ Buat project baru dengan nama 04 Android RecyclerView dan nama repository GitHub
 ## Screenshot Hasil Praktikum
 
 ![Hasil Praktikum](Screenshot/SS_1.png)
-![Hasil_2](Screenshot/SS_2.jpeg)
